@@ -1,2 +1,1 @@
-# Class-Work-Practice-10-Hover-After-Tag-Using-Html-Css
-hover-after-and before in (peragraph) button and more .
+Today i learned how to apply after and before in html and how create a loader in html..
